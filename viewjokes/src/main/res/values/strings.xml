@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewJokes</string>
+    <string name="noJokes">noJokes</string>
+    <string name="jokeTitle">Joke:</string>
+</resources>

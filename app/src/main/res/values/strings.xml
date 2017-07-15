@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Build_It_Bigger</string>
+    <string name="action_settings">Settings</string>
+    <string name="goJoke">Go To Joke</string>
+    <string name="textview">Please click to generate a joke</string>
+</resources>
+
